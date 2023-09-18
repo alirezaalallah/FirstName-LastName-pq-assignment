@@ -5,7 +5,6 @@ import jakarta.persistence.GeneratedValue
 import jakarta.persistence.GenerationType
 import jakarta.persistence.Id
 import jakarta.persistence.PreUpdate
-import jakarta.persistence.Table
 import java.math.BigDecimal
 import java.time.Instant
 
