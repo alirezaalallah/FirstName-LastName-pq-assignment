@@ -9,8 +9,7 @@ import jakarta.persistence.Table
 import java.math.BigDecimal
 import java.time.Instant
 
-@Entity
-@Table(name = "stocks")
+@Entity(name = "stocks")
 class Stock(
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
