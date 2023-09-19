@@ -1,5 +1,5 @@
 # stock-kt-sample
-This project has been written based on [spring boot framework](https://spring.io/) and [kotlin](https://kotlinlang.org/) in order to manage stocks in the market.
+This project has been written based on [Spring Boot Framework](https://spring.io/) and [kotlin](https://kotlinlang.org/) in order to manage stocks in the market.
 
 # How to prepare environment?
 In order to run the application you need `docker-compose`, all you need is that go to the directory where docker-compose file
