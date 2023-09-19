@@ -14,7 +14,7 @@ and then run it with following command:
 ```bash
 docker-compose up -d
 ```
-Now your stock-db up and running!
+Now your stock-db is up and running!
 
 # How to run?
 
