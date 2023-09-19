@@ -1,4 +1,4 @@
-# stock-kt-sample
+# Stock service
 This project has been written based on [Spring Boot Framework](https://spring.io/) and [kotlin](https://kotlinlang.org/) in order to manage stocks in the market.
 
 # How to prepare environment?
