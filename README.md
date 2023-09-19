@@ -3,18 +3,18 @@ This project has been written based on [Spring Boot Framework](https://spring.io
 
 # How to prepare environment?
 In order to run the application you need `docker-compose`, all you need is that go to the directory where docker-compose file
-exist, below command take you there!
+exist, below command takes you there!
 
 ```bash
 cd infra/docker
 ```
 
-and then run it!  
+and then run it with following command:  
 
 ```bash
 docker-compose up -d
 ```
-Now you stock-db up and running!
+Now your stock-db up and running!
 
 # How to run?
 
